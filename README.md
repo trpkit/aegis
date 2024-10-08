@@ -1,6 +1,6 @@
 ## Aegis
 
-Post-quantum key encapsulation using ML-KEM, combined with x25519 for secure key exchange and xsalsa20poly1305 for authenticated encryption. Provides comprehensive encryption, decryption, and key management for both browser and Node.js environments.
+Post-quantum key encapsulation using ML-KEM, combined with x25519 for secure key exchange and xsalsa20poly1305 for authenticated encryption. Provides serialized encryption, decryption, and key management for both browser and Node.js environments.
 
 ### Repositories
 
